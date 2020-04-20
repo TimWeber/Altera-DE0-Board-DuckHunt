@@ -19,7 +19,7 @@ Button0 would be used to reset the game at any time.
 
 ### Below are some images of the game working
 ![GameStart](https://user-images.githubusercontent.com/43787505/60716394-2e380c00-9f17-11e9-823c-1e17004f42bd.png)
-<br>This is the game at start. 5 ducks are alive, starting in a random location. 0 shots have been fired and 0 ducks hit. Note the 2 left most (switches 8 and 9) switches to control the speed and the two to the right of them (switches 6 and 7) control the difficulty.</br> 
+<br>This is the game at start. 5 ducks are alive, starting in a random location. 0 shots have been fired and 0 ducks hit. Note the 2 left most switches (8 and 9) to control the speed and the two to the right of them (switches 6 and 7) control the difficulty.</br> 
 
 ![Showing2hits9shots](https://user-images.githubusercontent.com/43787505/60716528-8bcc5880-9f17-11e9-8e96-637f89dadf6c.png)
 <br>This image it taken mid-game and shows 2 ducks hit and 9 shots fired.</br>
